@@ -1,0 +1,8 @@
+ Es importante porque, como desarrolladores, nos permite editar, navegar y ejecutar todo
+ desde un mismo lugar. Además, la terminal integrada en Visual Studio Code, que es mi caso,
+ abre normalmente desde la raíz del proyecto, así que es más práctico y no perdemos tiempo
+ buscando carpetas. En Visual Studio Code puedes mover archivos y carpetas, revisar la
+ estructura del proyecto, ejecutar comandos de Git, instalar dependencias y correr scripts sin
+ salir del editor. También permite tener varias terminales abiertas, por ejemplo una principal
+ y otra para pruebas. Tener todo integrado en un solo sitio hace el trabajo más sencillo,
+ ordenado y limpio. 
