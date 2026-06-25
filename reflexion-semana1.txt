@@ -1,0 +1,11 @@
+El uso de la imformacion en internet y la participacion de los usuarios 
+comparten algo en comun y es la confianza. Al verificar fuentes y evitar 
+desinformacion , contribuimos a un entorno sano y seguro.
+
+De manera similar , en el trabajo con git , la resposabilidad se traduce
+en commits claros , mesajes claros y presisos , lo que garantiza una rama 
+bien oragnizada. Cada comentario y cambio permite trasnparencia.
+
+Asi como un usuario o ciudadano bien imformado , puede tomar mejores deciciones 
+colectivas , un desarrollador , documenta , organiza su entorno lo que facilita ,
+su trabajo en equipo y evita errores.
