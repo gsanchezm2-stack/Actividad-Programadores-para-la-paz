@@ -1,0 +1,15 @@
+//Bueno como veo lo conceptos estan bien desarrollados pero , no estaria mal dar ejemplos//
+
+Repositorio: espacio donde se guardan los archivos y cambios de un proyecto. 
+Commit: registro de cambios realizado en un momento específico.
+Push: acción de enviar los cambios desde el computador o Codespaces hacia GitHub.
+
+Repositorio : Un Repositorio es un espacion , el cual puede ser local o remoto ,
+donde se guanrdan los acrchivos y estos quedan resgitrados, lo que pertime llevar un registro.
+
+Commit: este es la actualizacion de los archivos con los cambios , algo como un foro del estado 
+del proyecto , por ejemplo cada commit incluye un mensaje (realize cambio en los colores y elimine algunas carpetas)
+todo esto queda guardado con tu usuario y fecha , ya en dado caso tu equipo presente problemas ,
+Puedes ver los cambios y arreglar el problema.
+
+Push : es lo que te pertime subir los cambio en tu Repositorio remoto en GitHub :)
