@@ -1,0 +1,15 @@
+Construir herramientas tecnológicas propias desde tecnologías abiertas como Node.js 
+debe partir desde una intención clara, es decir, desarrollar soluciones que sean 
+útiles y accesibles para cualquier persona dentro de una comunidad, sin importar 
+sus conocimientos técnicos o recursos económicos.
+
+Así como una comunicación responsable adapta su mensaje según el contexto y el 
+público, una herramienta tecnológica comunitaria debe adaptarse a las necesidades 
+reales de quienes la van a usar, generando confianza y cercanía en lugar de 
+distancia o exclusión.
+
+Cuando una comunidad tiene la capacidad de construir sus propias plataformas 
+digitales, fortalece su participación de manera activa y pacífica, reduce la 
+dependencia de terceros y construye lazos de autonomía colectiva. Esto crea una 
+base sólida para un ambiente democrático, abierto y respetuoso, donde la tecnología 
+se convierte en un puente hacia la paz y no en una barrera.
