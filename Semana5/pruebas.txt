@@ -1,0 +1,9 @@
+Ruta /
+Al ingresar a http://localhost:3000 el servidor responde con el texto "Servidor activo".
+
+Ruta /saludo
+Al ingresar a http://localhost:3000/saludo el servidor responde con el texto "Hola comunidad".
+
+Ruta /mensaje/:nombre
+Al ingresar a http://localhost:3000/mensaje/Gabriel el servidor responde con el texto "Hola Gabriel".
+El parámetro :nombre cambia segun lo que se escriba en la URL.

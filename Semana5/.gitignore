@@ -1,12 +1,1 @@
-Las APIs son herramientas muy utiles , ya que le puedes permitir a las 
-comunidades compartir informacion de manera organizada y  eficiente. Por 
-ejemplo una comunidad podría tener una aplicación donde los vecinos envíen
-reportes sobre problemas del barrio usando una ruta POST, y otros vecinos 
-consulten esos reportes usando una ruta GET. Esto permite que la información 
-fluya de forma estructurada entre las personas y las autoridades. También 
-facilita que diferentes aplicaciones se conecten entre sí, por ejemplo una 
-app móvil con un servidor central. En zonas con necesidades específicas, una 
-API bien diseñada puede servir para enviar alertas de emergencia,  reportar 
-cortes de luz o agua, o coordinar ayudas comunitarias. En conclusión,las APIs 
-organizan la comunicación digital y pueden mejorar la calidad de vida de las 
-comunidades si se usan correctamente.
+node_modules/
