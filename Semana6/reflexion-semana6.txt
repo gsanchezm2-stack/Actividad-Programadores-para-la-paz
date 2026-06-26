@@ -1,0 +1,13 @@
+Es importante que las plataformas tecnológicas puedan recibir reportes
+e información de los ciudadanos de forma estructurada porque permite
+organizar y procesar los datos de manera eficiente y sin errores.
+Cuando la información llega en un formato definido como JSON, el sistema
+puede identificar fácilmente cada dato, como el tipo de incidencia o la
+descripción del problema, y dar una respuesta adecuada. Esto es especialmente
+útil en comunidades donde existen múltiples necesidades como daños en vías,
+fallas en servicios públicos o situaciones de riesgo. Además, recibir datos
+estructurados facilita que la información pueda ser almacenada, consultada
+y compartida con las autoridades correspondientes de manera organizada.
+En conclusión, una plataforma que recibe información estructurada fortalece
+la comunicación entre los ciudadanos y quienes toman decisiones, haciendo
+que los procesos comunitarios sean más ágiles, transparentes y efectivos.
