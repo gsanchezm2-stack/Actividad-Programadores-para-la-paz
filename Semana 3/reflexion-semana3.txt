@@ -1,0 +1,12 @@
+El registro de cambios en Git permite llevar un comtrol ordenado
+de la evolucion del proyecto , ya que gracias a esto se puede tener 
+un comtrol de los cmabio en el proyecto , tambien permite identificar los cambios 
+para de esta manera encotrar errores y de esta manara solucionarlos facilmente. 
+Git mejora la organizacion de un proyecto porque guarda cada cambio de manera segura y 
+estructurada, esto permite comparar versiones y entender como has crecido el 
+software , tambien hace mas sencillo provar nuevas ideas , sin afectar a la version
+original ,Los pasos básicos son: agregar los cambios, crear el commit y luego enviar todo al repositorio remoto.
+Los comandos serian estos git status
+git add .
+git commit -m "Agrega preguntas semana 2"
+git push 

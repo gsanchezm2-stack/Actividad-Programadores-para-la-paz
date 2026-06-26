@@ -11,5 +11,4 @@ Commit: este es la actualizacion de los archivos con los cambios , algo como un 
 del proyecto , por ejemplo cada commit incluye un mensaje (realize cambio en los colores y elimine algunas carpetas)
 todo esto queda guardado con tu usuario y fecha , ya en dado caso tu equipo presente problemas ,
 Puedes ver los cambios y arreglar el problema.
-
-Push : es lo que te pertime subir los cambio en tu Repositorio remoto en GitHub :)
+Push : es lo que te pertime subir los cambio en tu Repositorio remoto en GitHub y de esta manera sincronizar los cambios 
