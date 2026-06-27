@@ -1,11 +1,13 @@
-Ejemplo 1:
-{
-  "tipo": "Infraestructura",
-  "descripcion": "Daño en alumbrado público"
-}
-
-Ejemplo 2:
-{
-  "tipo": "Ambiente",
-  "descripcion": "Acumulación de residuos en una zona comunitaria"
-}
+Es importante que las comunidades puedan registrar y consultar reportes
+en una plataforma tecnológica porque permite organizar la información
+de manera estructurada y accesible para todos. Cuando un ciudadano puede
+registrar una incidencia como un daño en la infraestructura o un problema
+ambiental, esa información queda disponible para que las autoridades o
+líderes comunitarios puedan consultarla y actuar a tiempo. Además, tener
+un sistema de reportes evita que los problemas queden en el olvido o se
+pierdan entre mensajes informales. Una plataforma tecnológica también
+permite llevar un historial de las incidencias registradas, lo que ayuda
+a identificar problemas recurrentes y tomar decisiones mejor informadas.
+En conclusión, registrar y consultar reportes de forma digital fortalece
+la participación ciudadana y mejora la capacidad de respuesta de la
+comunidad ante sus propias necesidades.
